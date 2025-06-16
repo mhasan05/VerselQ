@@ -1,0 +1,17 @@
+asgiref
+Django
+djangorestframework
+djangorestframework_simplejwt
+pillow
+psycopg2
+PyJWT
+sqlparse
+tzdata
+django-cors-headers
+openai
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+python-dotenv
+PyPDF2

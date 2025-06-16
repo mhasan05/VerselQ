@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django migrations (except __init__.py to keep the folder tracked)
+**/migrations/
+!**/migrations/__init__.py
+
+# Logs and runtime files
+*.log
+*.pid
+*.sqlite3
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+accounts/__pycache__/views.cpython-313.pyc
+ai_model/__pycache__/utils.cpython-313.pyc
+ai_model/__pycache__/views.cpython-313.pyc
+core/__pycache__/settings.cpython-313.pyc
