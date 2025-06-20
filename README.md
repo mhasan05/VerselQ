@@ -6,7 +6,7 @@
 
 ## Overview
 
-MS-Assistant-ChatGPT is a FastAPI-based backend that enables users (especially admins) to upload business books in PDF format, process them into searchable knowledge chunks, and interact with an AI assistant that answers questions **strictly using only the content from the uploaded books**. No external or internet-based knowledge is ever used in answers.
+Business-Assistant-ChatGPT is a FastAPI-based backend that enables users (especially admins) to upload business books in PDF format, process them into searchable knowledge chunks, and interact with an AI assistant that answers questions **strictly using only the content from the uploaded books**. No external or internet-based knowledge is ever used in answers.
 
 ---
 
@@ -40,7 +40,7 @@ MS-Assistant-ChatGPT is a FastAPI-based backend that enables users (especially a
 1. **Clone the repository**
     ```bash
     git clone <your-repo-url>
-    cd MS-Assistant-ChatGPT
+    cd Business-Assistant-ChatGPT
     ```
 
 2. **Create a virtual environment**
